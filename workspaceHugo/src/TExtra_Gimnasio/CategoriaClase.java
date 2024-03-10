@@ -1,0 +1,7 @@
+package TExtra_Gimnasio;
+
+public enum CategoriaClase {
+	
+	ENTRENAMIENTO_DE_FUERZA, YOGA, PILATES, CARDIO, CLASES_DE_BAILE, ARTES_MARCIALES, CLASES_ACUATICAS;
+
+}
